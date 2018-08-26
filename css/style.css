@@ -21,4 +21,6 @@
 
 .item {
     align-self: center;
+    padding: 30px;
+    max-height: 350px;
 }
